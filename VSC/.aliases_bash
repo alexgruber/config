@@ -1,0 +1,11 @@
+alias cls='clear'
+alias la='ls -la'
+alias ll='ls -l'
+alias ..='cd ..'
+alias rm='rm -i'
+alias cdd='cd /data/leuven/320/vsc32046/projects/TEST_RUNS'
+alias cds='cd /scratch/leuven/320/vsc32046/output/TEST_RUNS'
+alias cdsa='cd /staging/leuven/stg_00024/OUTPUT/alexg'
+alias cdbin='cd /data/leuven/320/vsc32046/src_code/GEOS5_LDASsa/LDASsa_m3-16_0_p1_KUL/LDASsa/Linux/bin'
+alias cda='cd /archive/leuven/arc_00024/alexg'
+
